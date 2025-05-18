@@ -6,6 +6,7 @@ def print_usage():
     print("hlcli (--red|--green|--blue|--yellow|regular_expression)*")
     print("Highlight regular expressions in different colours.")
     print("Colours come before expressions. You can change colour.")
+    print("@readwithai 📖 https://readwithai.substack.com/p/habits ⚡️ machine-aided reading ✒️")
 
 def main():
     color = Fore.RED
